@@ -109,7 +109,6 @@ doAuthTokenRefresh();
 // We keep a local variable for authToken because `ipcRenderer.send` does not
 // contain a response, so there is no way to know when it's been set
 let authToken;
-// here call user new with config language and domain?
 Lbryio.setOverride(
   'setAuthToken',
   status =>
