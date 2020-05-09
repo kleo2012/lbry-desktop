@@ -1200,5 +1200,7 @@
   "this channel": "this channel",
   "Share this channel": "Share this channel",
   "File preview": "File preview",
-  "Go Home": "Go Home"
+  "Go Home": "Go Home",
+  "Your wallet is not currently synced with lbry.tv. You are in control of backing up your wallet.": "Your wallet is not currently synced with lbry.tv. You are in control of backing up your wallet.",
+  "Sorry, looks like we can't load the archive.": "Sorry, looks like we can't load the archive."
 }
