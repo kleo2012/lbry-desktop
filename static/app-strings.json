@@ -1203,5 +1203,6 @@
   "Go Home": "Go Home",
   "Uploading (%progress%%) ": "Uploading (%progress%%) ",
   "Confirming": "Confirming",
-  "All comments are viewable by anyone, keep this in mind before writing a comment.": "All comments are viewable by anyone, keep this in mind before writing a comment."
+  "All comments are viewable by anyone, keep this in mind before writing a comment.": "All comments are viewable by anyone, keep this in mind before writing a comment.",
+  "Your wallet is not currently synced with lbry.tv. You are in control of backing up your wallet.": "Your wallet is not currently synced with lbry.tv. You are in control of backing up your wallet."
 }
