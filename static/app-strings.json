@@ -1201,7 +1201,19 @@
   "Share this channel": "Share this channel",
   "File preview": "File preview",
   "Go Home": "Go Home",
-  "Sorry, looks like we can't load the archive.": "Sorry, looks like we can't load the archive."
+  "Sorry, looks like we can't load the archive.": "Sorry, looks like we can't load the archive.",
   "Uploading (%progress%%) ": "Uploading (%progress%%) ",
-  "Confirming": "Confirming"
+  "Confirming": "Confirming",
+  "%duration% years ago": "%duration% years ago",
+  "%duration% year ago": "%duration% year ago",
+  "%duration% months ago": "%duration% months ago",
+  "%duration% month ago": "%duration% month ago",
+  "%duration% days ago": "%duration% days ago",
+  "%duration% day ago": "%duration% day ago",
+  "%duration% hours ago": "%duration% hours ago",
+  "%duration% hour ago": "%duration% hour ago",
+  "%duration% minutes ago": "%duration% minutes ago",
+  "%duration% minute ago": "%duration% minute ago",
+  "%duration% seconds ago": "%duration% seconds ago",
+  "%duration% second ago": "%duration% second ago"
 }
